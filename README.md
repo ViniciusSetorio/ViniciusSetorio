@@ -2,12 +2,13 @@
 
 ##
 
-- 💁‍♂️ Tenho 17 anos.
+- 💁‍♂️ Tenho 18 anos.
 - 📫 Cursando 3° ano do ensino médio.
 - 📫 Cursando técnico de informática.
 - 📫 Estudando Python.
 - 📫 Estudando HTML.
 - 📫 Estudando CSS.
+- - 📫 Estudando Javascript.
 - 😄 Pronomes: ele/dele.
 
 <div style="display: inline_block"><br>
